@@ -7,3 +7,5 @@ example:
 Array: [“blue”, “yellow”, “red”, “brown”, “orange”, “blue”, “red”]
 1. input WordsCalculateDistance(“orange”, “yellow”), result : 3
 2. input WordsCalculateDistance(“blue”, “red”), result : 1
+
+Run /src/test/java/WordsCalculateDistanceTest.java as Junit Test
